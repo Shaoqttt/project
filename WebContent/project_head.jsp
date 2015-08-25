@@ -35,7 +35,7 @@
 				<li><a href="project_finance.jsp">记账</a></li>
 				<li><a href="project_file.jsp">文件库</a></li>
 				<li><a href="project_tasks.jsp">任务板</a></li>
-				<li><a href="#">日程表</a></li>
+				<li><a href="project_calendar.jsp">日程表</a></li>
 				<li><a href="#">标签</a></li>
 			</ul>
 	

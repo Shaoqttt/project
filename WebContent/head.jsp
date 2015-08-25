@@ -75,7 +75,7 @@
 					</ul>
 				</li>
 				<li><a href="#">我的</a></li>
-				<li><a href="#">日历</a></li>
+				<li><a href="calendar.jsp">日历</a></li>
 				<li><a href="#">收件箱</a></li>
 			</ul>
 	
