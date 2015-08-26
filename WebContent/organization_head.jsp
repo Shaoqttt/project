@@ -3,7 +3,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
 <%@ include file="head.jsp"%>
-
+<div class="item">
+  <img src="img/chrome-big.jpg" style="w">
+  <div class="carousel-caption">
+    <h3>222</h3>
+    <p>2223</p>
+  </div>
+</div>
 <nav class="navbar-default">
 	<div class="container">
 		<!-- Brand and toggle get grouped for better mobile display -->

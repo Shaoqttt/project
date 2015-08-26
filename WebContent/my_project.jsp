@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>日程表</title>
+<title>我的</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -15,14 +15,12 @@
       <script src="js/respond.min.js"></script>
     <![endif]-->
 <style>
+
 </style>
 </head>
 <body>
-	<%@ include file="project_head.jsp"%>
+	<%@ include file="head.jsp"%>
 	<h1></h1>
-	<div class="container">
-		
-	</div>
 	
 <script type="text/javascript" src="js/jquery-1.11.1.min.js" charset="UTF-8"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>

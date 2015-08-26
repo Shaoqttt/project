@@ -71,12 +71,12 @@
 					<ul class="dropdown-menu ">
 						<li><a href="#"><span class="glyphicon glyphicon-plus downicon"></span>添加组织</a></li>
 						<li role="separator" class="divider"></li>
-						<li><a href="#"><img src="img/headphoto.png" alt="headphoto" class="img-circle origizationpic">组织名字</a></li>
+						<li><a href="organization_present.jsp"><img src="img/headphoto.png" alt="headphoto" class="img-circle origizationpic">组织名字</a></li>
 					</ul>
 				</li>
-				<li><a href="#">我的</a></li>
+				<li><a href="my_project.jsp">我的</a></li>
 				<li><a href="calendar.jsp">日历</a></li>
-				<li><a href="#">收件箱</a></li>
+				<li><a href="inbox.jsp">收件箱</a></li>
 			</ul>
 	
 			<ul class="nav navbar-nav navbar-right">

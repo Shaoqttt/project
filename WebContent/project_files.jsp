@@ -79,7 +79,7 @@
 										<form class="form-inline" role="search">
 					                         <div class="form-group" style=" width:100%;margin-left:5px;padding-right:5px;">
 					                          <input type="text" class="form-control" placeholder="创建者" style="width:60%;">
-					                           <button type="submit" class=" btn btn-primary" style="width:35%;float:right;margin-right:5px;">查找</button>
+					                          <button type="submit" class=" btn btn-primary" style="width:35%;float:right;margin-right:5px;">查找</button>
 					                        </div>
 				                      	</form>
 				                      	<li class="divider"></li>

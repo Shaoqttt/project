@@ -7,7 +7,7 @@
 <link href='css/fullcalendar.print.css' rel='stylesheet' media='print' />
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
-
+<title>日历</title>
 <style>
 
 </style>
